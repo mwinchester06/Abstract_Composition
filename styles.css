@@ -12,6 +12,7 @@ body {
     width: 100px;
     height: 100px;
     background: linear-gradient(to right, rgb(207, 28, 103), rgb(210, 80, 97));
+    rotate: 30deg;
     
 }
 
@@ -23,7 +24,7 @@ body {
     float: right;
     margin-top: -80px;
     border-radius: 100%;
-    
+    rotate: 50deg;
 }
 
 .el3 {
