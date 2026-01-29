@@ -78,7 +78,7 @@ body {
 .el9 {
     width: 80vw;
     height: 400px;
-    background: linear-gradient(to right, black, white);
+    background: linear-gradient(to right, rgb(255, 151, 61), rgb(243, 49, 149));
     float: right;
     margin-top: 100px;
 }
