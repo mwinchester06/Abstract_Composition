@@ -22,6 +22,7 @@ body {
     background: linear-gradient(to top, rgb(137, 45, 194), rgb(36, 142, 17));
     float: right;
     margin-top: -80px;
+    border-radius: 100%;
     
 }
 
