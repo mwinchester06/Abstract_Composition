@@ -31,7 +31,8 @@ body {
     width: 100vw;
     height: 100px;
     background: linear-gradient(to top, rgb(143, 99, 209), rgb(232, 19, 104));
-    margin-top: 20px;
+    position: absolute;
+    top: 40px;
 }
 
 .el4 {
